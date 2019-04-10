@@ -2,7 +2,7 @@
 title: 使用hexo搭建个人博客
 date: 2019-04-10 20:52:29
 tags: ['hexo', '个人博客']
-categories: ['hexo']
+categories: hexo
 ---
 # hexo搭建个人博客教程
 
